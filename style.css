@@ -1,0 +1,16 @@
+body{
+    background-color: orange;
+}
+
+.title{
+    display: flex;
+    flex-direction: column;
+}
+
+.title p{
+    margin: 0;
+    padding-bottom: 35px;
+}
+ #course{
+    width: 230px;
+ }
